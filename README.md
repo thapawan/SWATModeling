@@ -23,8 +23,8 @@ Other options, installing it by using the package manager in ArcGIS Pro, to add 
 The easiest and quickest way to use the cross-section extraction visualization tool is to run it from ArcPro Toolboxes, where the functions can be directly loaded without setup. The tutorial for using the tool is shared on my YouTube channel (learnsomethingtoday): https://youtu.be/J0KKxBf-vLI
 
 ### Resources
-#Video: https://www.youtube.com/watch?v=ml9sndHv-J8
-#Blog: https://sites.google.com/view/learnswat/home/swatex?authuser=0&fbclid=IwAR2LfXRTvskfv9yNR8PxK16uE60e8RxdfAqKzoNP-wfGXpzBET97p5R2QJo
+Video: https://www.youtube.com/watch?v=ml9sndHv-J8
+Blog: https://sites.google.com/view/learnswat/home/swatex?authuser=0&fbclid=IwAR2LfXRTvskfv9yNR8PxK16uE60e8RxdfAqKzoNP-wfGXpzBET97p5R2QJo
 
 ### Explanation
 The code is an ArcGIS Python Toolbox that is designed to be used within ArcGIS Pro. It is a custom geoprocessing tool that performs the following tasks:
