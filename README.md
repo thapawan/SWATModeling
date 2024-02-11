@@ -7,12 +7,6 @@ The cross-section extraction visualization tool automates extracting cross-secti
 ## Usage Guide
 The easiest and quickest way to use the cross-section extraction visualization tool is to run it from ArcPro Toolboxes, where the functions can be directly loaded without setup. The tutorial for using the tool is shared on my YouTube channel (learnsomethingtoday): https://youtu.be/J0KKxBf-vLI
 
-### Blog
-https://sites.google.com/view/learnswat/home/swatex?authuser=0&fbclid=IwAR2LfXRTvskfv9yNR8PxK16uE60e8RxdfAqKzoNP-wfGXpzBET97p5R2QJo
-
-### Video
-https://www.youtube.com/watch?v=ml9sndHv-J8
-
 ## SWAT Model official website:
 SWAT | Soil & Water Assessment Tool (tamu.edu)
 
@@ -45,6 +39,12 @@ Currently, it provides CSVs and PNG files further extension is available in the 
 I acknowledge the YouTube video made by the GeoDev Tools channel for the video of the crosssection extractor and the valuable feedback by the GY539 GIS Programming  advisor (Dr. Hongxing Liu) and (Dr. Dan Tian), also for other direct and indirect contributions to build and implement this tool.
 
 Dong, P., Zhong, R., Xia, J., & Tan, S. (2020). A semi-automated method for extracting channels and channel profiles from lidar-derived digital elevation models. Geosphere, 16(3), 806-816.
+
+### Blog
+[Blog](https://sites.google.com/view/learnswat/home/swatex?authuser=0&fbclid=IwAR2LfXRTvskfv9yNR8PxK16uE60e8RxdfAqKzoNP-wfGXpzBET97p5R2QJo)
+
+### Video
+[Blog](https://www.youtube.com/watch?v=ml9sndHv-J8)
 
 ## Contact
 Open for collaboration and welcome any valuable feedback or suggestions for improvement. If you have any queries about the algorithm, open for discussion and contact:
