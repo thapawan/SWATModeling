@@ -44,7 +44,7 @@ Dong, P., Zhong, R., Xia, J., & Tan, S. (2020). A semi-automated method for extr
 [Blog](https://sites.google.com/view/learnswat/home/swatex?authuser=0&fbclid=IwAR2LfXRTvskfv9yNR8PxK16uE60e8RxdfAqKzoNP-wfGXpzBET97p5R2QJo)
 
 ### Video
-[Blog](https://www.youtube.com/watch?v=ml9sndHv-J8)
+[Video](https://www.youtube.com/watch?v=ml9sndHv-J8)
 
 ## Contact
 Open for collaboration and welcome any valuable feedback or suggestions for improvement. If you have any queries about the algorithm, open for discussion and contact:
